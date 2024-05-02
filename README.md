@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 I'm from Samastipur, Bihar
 - 😄 Pronouns: Pushkar
-- ⚡ Fun fact: OverThinker
+- ⚡ Fun fact:
 
 <!---
 PushkarRemix/PushkarRemix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
